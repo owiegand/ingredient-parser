@@ -57,6 +57,11 @@ function GetCookingUnits(){
 	$Units[] = "t"; 
 	$Units[] = "tsp."; 
 	
+	$Units[] = "ounce";
+	$Units[] = "oz";
+	$Units[] = "oz.";
+	 
+	
 	
 	$Units[] = "pounds"; 
 	$Units[] = "lb"; 
