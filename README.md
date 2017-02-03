@@ -1,5 +1,5 @@
 # ingredient-parser
-This PHP parser takes basic string and tries to extract items such as Quanity, Units, Ingreident, and any addtional notes. 
+This PHP parser takes basic string and tries to extract items such as Quanity, Units, Ingreident, and any addtional notes. This goes hand in hand with recipe-parser but this ingredient parser can be easily intergrated into any recipe parsing soltuion.
 
 ### Usage
 After adding this repo to your project you only need to call one PHP function. 
@@ -19,9 +19,8 @@ array(4) {
     ["info"]=> string(19) "peeled and deveined" 
     ["name"]=> string(6) "shrimp" 
 }
-
 ```
 
 
 ### How to contribute
-Inlcuded the repo is ingredient-parser-tester.php. This contains a simple way to add example ingredient strings and confirm their returned array outputs.
+Inlcuded the repo is ingredient-parser-tester.php. This contains a simple way to add example ingredient strings and confirm their returned array outputs. ingreident-parser.php also contains an array of units. This will need to updated if unknown unit is found.
