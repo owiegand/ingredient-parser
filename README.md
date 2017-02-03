@@ -4,7 +4,7 @@ This PHP parser takes basic string and tries to extract items such as Quanity, U
 ### Usage
 After adding this repo to your project you only need to call one PHP function. 
 ```php
-$ReturnArray = ParserIndgredient($IngredientTest);
+$ReturnArray = ParserIndgredient($IngredientString);
 
 ```
 This function accepts a string similar to: 
