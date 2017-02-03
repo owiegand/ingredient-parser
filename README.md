@@ -1,5 +1,5 @@
 # ingredient-parser
-This PHP parser takes basic string and tries to extract items such as Quanity, Units, Ingreident, and any addtional notes. This goes hand in hand with recipe-parser but this ingredient parser can be easily intergrated into any recipe parsing solution.
+This PHP parser takes basic string and tries to extract items such as Quanity, Units, Ingreident, and any addtional notes. This goes hand in hand with recipe-parser but this [ingredient parser](https://github.com/owiegand/recipe-parser) can be easily intergrated into any recipe parsing solution.
 
 ### Usage
 After adding this repo to your project you only need to call one PHP function. 
