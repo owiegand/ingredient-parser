@@ -24,3 +24,12 @@ array(4) {
 
 ### How to contribute
 Inlcuded the repo is ingredient-parser-tester.php. This contains a simple way to add example ingredient strings and confirm their returned array outputs. ingreident-parser.php also contains an array of units. This will need to updated if unknown unit is found.
+
+
+<!--
+[**GITHUBPARSER**]
+{
+  "Icon": "fa-lemon-o"
+}
+[**GITHUBPARSER**]
+-->
