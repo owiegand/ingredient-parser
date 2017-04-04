@@ -27,9 +27,9 @@ Inlcuded the repo is ingredient-parser-tester.php. This contains a simple way to
 
 
 <!--
-[**GITHUBPARSER**]
+<GITHUBPARSER>
 {
   "Icon": "fa-lemon-o"
 }
-[**GITHUBPARSER**]
+<GITHUBPARSER>
 -->
